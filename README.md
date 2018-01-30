@@ -1,6 +1,8 @@
 # Lisbon-Tips
 A list of stuff to do in Lisbon
 
+## Hotéis
+
 ### [Pousada Lisboa](https://www.pousadas.pt/pt/hotel/pousada-lisboa)
 <img src="images/Pousada_Lisboa.jpeg" height="300" width="445">
 Localizada no centro de Lisboa, a Pousada de Lisboa já foi uma casa de reis e um fórum para ministros e é agora um pequeno hotel de luxo, perfeito para quem quer ficar no centro histórico.
@@ -12,6 +14,8 @@ Localizado num palácio do século XIX muito bem restaurado, o Pestana Palace Li
 ### [Hotel LX Boutique](http://www.lxboutiquehotel.com/en/welcome)
 <img src="images/Hotel_LX_Boutique.jpeg" height="300" width="445">
 Um hotel centenário com vista para o rio Tejo, mesmo no coração da Lisboa histórica. Se procuras um estilo mais contemporâneo, este é o local ideal.
+
+## Restaurantes
 
 ### [Cabaças](https://www.zomato.com/grande-lisboa/casa-cabaças-bairro-alto-lisboa)
 <img src="images/Cabaças.jpeg" height="300" width="445">
@@ -85,6 +89,8 @@ Muito, muito bom ceviche e pisco sour.
 <img src="images/O_Talho.jpeg" height="300" width="445">
 Literalmente “The Butcher” – alta cozinha incrível, ao lado do El Corte Ingles.
 
+## Brunch
+
 ### [Nicolau](https://www.zomato.com/grande-lisboa/nicolau-lisboa-baixa-lisboa)
 <img src="images/Nicolau.jpeg" height="300" width="445">
 Um dos melhores brunchs da cidade.
@@ -96,6 +102,8 @@ Excelente brunch com alimentos orgânicos.
 ### [DeliDeluxe](https://www.zomato.com/Delidelux)
 <img src="images/DeliDeluxe.jpg" height="300" width="445">
 Brunch saboroso com uma bela vista para o rio.
+
+## Cafés e Pastelarias Portuguesas
 
 ### [Bettina Niccolo Corallo](https://www.zomato.com/grande-lisboa/bettina-e-niccòlo-corallo-pr%C3%ADncipe-real-lisboa)
 <img src="images/Bettina_Niccolo_Corallo.jpeg" height="300" width="445">
@@ -120,6 +128,8 @@ Bom café e perfeito caso procures um lugar tranquilo para relaxar.
 ### [Pasteleria Versailles](https://www.zomato.com/grande-lisboa/versailles-saldanha-lisboa)
 <img src="images/Pasteleria_Versailles.jpg" height="300" width="445">
 Café histórico a 5 minutos do nosso escritório no Saldanha – excelentes bolos.
+
+## Bares e cocktails
 
 ### [Sky Bar](https://www.zomato.com/grande-lisboa/sky-bar-tivoli-lisboa-avenida-da-liberdade-lisboa)
 <img src="images/Sky_Bar.jpg" height="300" width="445">
