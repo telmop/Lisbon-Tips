@@ -135,6 +135,10 @@ Brunch saboroso com uma bela vista para o rio.
 <img src="images/Bettina_Niccolo_Corallo.jpeg" height="300" width="445">
 O melhor café e chocolate em Lisboa.
 
+### [Pastéis de Belém](https://www.zomato.com/pt/grande-lisboa/past%C3%A9is-de-bel%C3%A9m-bel%C3%A9m-lisboa)
+<img src="images/Pasteis_Belem.jpg" height="300" width="445">
+Os famosos pastéis de Belém. Paragem obrigatória.
+
 ### [Manteigaria – Fábrica de Pastéis de Nata](https://www.zomato.com/manteigaria)
 <img src="images/Manteigaria_–_Fábrica_de_Pastéis_de_Nata.jpg" height="300" width="445">
 O melhor pastel de nata em Lisboa. Quando ouvir o sino tocar, significa que estão a tirar os pastéis do forno.
