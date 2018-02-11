@@ -1,5 +1,5 @@
 # Lisbon-Tips
-A list of stuff to do in Lisbon
+Uma lista (não exaustiva) de coisas para fazer em Lisboa
 
 ## Hotéis
 
@@ -89,6 +89,46 @@ Muito, muito bom ceviche e pisco sour.
 <img src="images/O_Talho.jpeg" height="300" width="445">
 Literalmente “The Butcher” – alta cozinha incrível, ao lado do El Corte Ingles.
 
+### [Ponto Final](https://www.zomato.com/pt/grande-lisboa/ponto-final-almada-centro)
+<img src="images/Ponto_final.jpg" height="300" width="445">
+Junto ao rio (se bem que do lado errado), com vistas fantásticas. Comida típica portuguesa.
+
+### [Zé da Mouraria](https://www.zomato.com/pt/grande-lisboa/o-z%C3%A9-da-mouraria-mouraria-lisboa)
+<img src="images/Ze_da_Mouraria.jpg" height="300" width="445">
+Das melhores tascas de Lisboa. Ótimo para grupos ao jantar.
+
+### [Varina da Madragoa](https://www.zomato.com/pt/grande-lisboa/varina-da-madragoa-madragoa-lisboa)
+<img src="images/Varina_da_Madragoa.jpg" height="300" width="445">
+Um bom sítio para Bacalhau à Brás ou pataniscas de bacalhau.
+
+### [Zé dos Cornos](https://www.zomato.com/pt/grande-lisboa/tasca-z%C3%A9-dos-cornos-mouraria-lisboa)
+<img src="images/Ze_dos_Cornos.jpg" height="300" width="445">
+Uma tasca bem pequenina. As costelas são obrigatórias.
+
+### [Marisqueira Nunes](https://www.zomato.com/pt/grande-lisboa/nunes-real-marisqueira-bel%C3%A9m-lisboa)
+<img src="images/Marisqueira_Nunes.jpg" height="300" width="445">
+Um concorrente ao Ramiro, em Belém.
+
+### [El Pibe](https://www.zomato.com/pt/grande-lisboa/empanaderia-el-pibe-pena-lisboa)
+<img src="images/El_Pibe.jpg" height="300" width="445">
+O sítio para comer empanadas.
+
+### [O Fondue](https://www.zomato.com/pt/grande-lisboa/o-fondue-saldanha-lisboa)
+<img src="images/O_Fondue.jpg" height="300" width="445">
+Vontade de experimentar carnes exóticas? Desde zebra e crocodilo até kanguru, aqui há um pouco de tudo.
+
+### [Atalho Real](https://www.zomato.com/pt/grande-lisboa/atalho-pr%C3%ADncipe-real-lisboa)
+<img src="images/Atalho_Real.jpg" height="300" width="445">
+Boa escolha no Príncipe Real. A picanha ou o bife da vazia são excelentes.
+
+### [O Táxi](https://www.zomato.com/pt/grande-lisboa/o-t%C3%A1xi-entrecampos-lisboa)
+<img src="images/O_Taxi.jpg" height="300" width="445">
+Das melhores costelas assadas na brasa de Lisboa.
+
+### [Toscana](https://www.zomato.com/pt/grande-lisboa/toscana-casa-de-pasto-alc%C3%A2ntara-lisboa)
+<img src="images/Toscana.jpg" height="300" width="445">
+Comida portuguesa. Experimentar bacalhau no carvão, polvo ou costelas. Racklet (dá para 3) é também muito bom.
+
 ## Brunch
 
 ### [Nicolau](https://www.zomato.com/grande-lisboa/nicolau-lisboa-baixa-lisboa)
@@ -163,3 +203,6 @@ Para uma bebida ao pôr do sol com uma bela vista sobre Lisboa.
 <img src="images/Rio_Maravilha.jpg" height="300" width="445">
 Cocktails de qualidade e uma vista deslumbrante para a ponte de 25 de abril.
 
+### [Old Vic](https://www.zomato.com/pt/grande-lisboa/old-vic-alvalade-lisboa)
+<img src="images/Old_Vic.jpg" height="300" width="445">
+Ambiente acolhedor e com aperitivos sempre a chegar à mesa.
