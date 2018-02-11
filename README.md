@@ -90,7 +90,7 @@ Muito, muito bom ceviche e pisco sour.
 Literalmente “The Butcher” – alta cozinha incrível, ao lado do El Corte Ingles.
 
 ### [Ponto Final](https://www.zomato.com/pt/grande-lisboa/ponto-final-almada-centro)
-<img src="images/Ponto_final.jpg" height="300" width="445">
+<img src="images/Ponto_Final.jpg" height="300" width="445">
 Junto ao rio (se bem que do lado errado), com vistas fantásticas. Comida típica portuguesa.
 
 ### [Zé da Mouraria](https://www.zomato.com/pt/grande-lisboa/o-z%C3%A9-da-mouraria-mouraria-lisboa)
