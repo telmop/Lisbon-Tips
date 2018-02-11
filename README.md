@@ -1,20 +1,6 @@
 # Lisbon-Tips
 Uma lista (não exaustiva) de coisas para fazer em Lisboa
 
-## Hotéis
-
-### [Pousada Lisboa](https://www.pousadas.pt/pt/hotel/pousada-lisboa)
-<img src="images/Pousada_Lisboa.jpeg" height="300" width="445">
-Localizada no centro de Lisboa, a Pousada de Lisboa já foi uma casa de reis e um fórum para ministros e é agora um pequeno hotel de luxo, perfeito para quem quer ficar no centro histórico.
-
-### [Pestana Palace](https://www.pestana.com/uk/hotel/pestana-palace)
-<img src="images/Pestana_Palace.jpeg" height="300" width="445">
-Localizado num palácio do século XIX muito bem restaurado, o Pestana Palace Lisboa é um dos “Leading Hotels of the World”. Perfeito se quiseres ficar próximo do rio e de Belém.
-
-### [Hotel LX Boutique](http://www.lxboutiquehotel.com/en/welcome)
-<img src="images/Hotel_LX_Boutique.jpeg" height="300" width="445">
-Um hotel centenário com vista para o rio Tejo, mesmo no coração da Lisboa histórica. Se procuras um estilo mais contemporâneo, este é o local ideal.
-
 ## Restaurantes
 
 ### [Cabaças](https://www.zomato.com/grande-lisboa/casa-cabaças-bairro-alto-lisboa)
