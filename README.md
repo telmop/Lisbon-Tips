@@ -206,3 +206,7 @@ Cocktails de qualidade e uma vista deslumbrante para a ponte de 25 de abril.
 ### [Old Vic](https://www.zomato.com/pt/grande-lisboa/old-vic-alvalade-lisboa)
 <img src="images/Old_Vic.jpg" height="300" width="445">
 Ambiente acolhedor e com aperitivos sempre a chegar à mesa.
+
+### [Delirium Café](https://www.zomato.com/pt/grande-lisboa/delirium-caf%C3%A9-lisboa-chiado-lisboa)
+<img src="images/Delirium.jpeg" height="300" width="445">
+Bar de cerveja com muita variedade e sabores.
